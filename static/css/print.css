@@ -1,0 +1,21 @@
+
+body{
+    display: flex;
+    justify-content: center;
+}
+.main{
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+   width: 50%;
+   height: auto;
+   border: 2px solid black;
+   padding: 20px;
+   background-color: indianred;
+    
+    
+
+
+.name{
+    color: dodgerblue
+}
